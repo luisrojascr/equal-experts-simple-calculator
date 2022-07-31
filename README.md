@@ -1,3 +1,11 @@
+# Test Version Number
+
+5b8d0fd276b6d288905ed2f63a934e057e8feca2
+
+This is an implementation of a simple calculator built as part of an interview process for [Equal Experts](https://www.equalexperts.com/)
+
+View online here:
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).

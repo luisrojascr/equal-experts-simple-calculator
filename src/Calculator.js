@@ -53,6 +53,13 @@ function App() {
 
   return (
     <div className="App">
+      <div className="header">
+        <img
+          src="https://www.pngkey.com/png/full/236-2368497_hmrc-and-equal-experts-equal-experts-logo-png.png  "
+          alt="[=] Equal Experts"
+          width="300"
+        />
+      </div>
       <div className="calculator">
         <div className="display" data-testid="display">
           {calculation || "0"}
