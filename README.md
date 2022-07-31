@@ -4,7 +4,7 @@
 
 This is an implementation of a simple calculator built as part of an interview process for [Equal Experts](https://www.equalexperts.com/)
 
-View online here:
+View online here: [view online](https://luisrojascr-simple-calculator.netlify.app/)
 
 # Getting Started with Create React App
 

@@ -5,6 +5,10 @@
   justify-content: center;
 }
 
+.header {
+  margin: auto;
+}
+
 .calculator {
   width: 94%;
   max-width: 400px;
